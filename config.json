@@ -1,4 +1,12 @@
 {
   "latest_app_version": "1.0",
-  "mod_files": []
+  "mod_files": [
+    {
+      "name": "Hello",
+      "id": "Mod",
+      "filename": "hi.zip",
+      "version": "78",
+      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/hi.zip?v=1770983415088"
+    }
+  ]
 }
