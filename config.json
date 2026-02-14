@@ -21,6 +21,13 @@
       "filename": "headshot.zip",
       "version": "8.7",
       "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/headshot.zip?v=1770993594931"
+    },
+    {
+      "name": "Magic bullet",
+      "id": "Magi",
+      "filename": "magicbullet.zip",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/magicbullet.zip?v=1771033535139"
     }
   ]
 }
