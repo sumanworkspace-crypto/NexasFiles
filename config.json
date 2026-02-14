@@ -2,13 +2,6 @@
   "latest_app_version": "2.0",
   "mod_files": [
     {
-      "name": "Nothing",
-      "id": "4",
-      "filename": "headshot.zip",
-      "version": "8.7",
-      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/headshot.zip?v=1770993594931"
-    },
-    {
       "name": "Magic bullet",
       "id": "Magi",
       "filename": "magicbullet.zip",
