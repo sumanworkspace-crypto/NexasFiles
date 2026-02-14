@@ -1,4 +1,33 @@
 {
   "latest_app_version": "2.0",
-  "mod_files": []
+  "mod_files": [
+    {
+      "name": "Magic Bullet Updated",
+      "id": "Download this is updated",
+      "filename": "magicbullet.zip",
+      "version": "1.3",
+      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/magicbullet.zip?v=1770984343803"
+    },
+    {
+      "name": "Nothing",
+      "id": "4",
+      "filename": "headshot.zip",
+      "version": "8.7",
+      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/headshot.zip?v=1770993594931"
+    },
+    {
+      "name": "Magic bullet",
+      "id": "Magi",
+      "filename": "magicbullet.zip",
+      "version": "1.9",
+      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/magicbullet.zip?v=1771033682339"
+    },
+    {
+      "name": "Gyy",
+      "id": "Y",
+      "filename": "magicbullet.zip",
+      "version": "20.6",
+      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/magicbullet.zip?v=1771034204912"
+    }
+  ]
 }
