@@ -2,13 +2,6 @@
   "latest_app_version": "2.0",
   "mod_files": [
     {
-      "name": "Hello",
-      "id": "Mod",
-      "filename": "hi.zip",
-      "version": "78",
-      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/hi.zip?v=1770983415088"
-    },
-    {
       "name": "Magic Bullet Updated",
       "id": "Download this is updated",
       "filename": "magicbullet.zip",
