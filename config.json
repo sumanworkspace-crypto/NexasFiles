@@ -2,11 +2,11 @@
   "latest_app_version": "1.0",
   "mod_files": [
     {
-      "name": "Hologram",
-      "id": "Hologram",
+      "name": "Recently Updated The Hologram File",
+      "id": "HOLOGRAM",
       "filename": "hologram.zip",
-      "version": "1.2",
-      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/hologram.zip?v=1771147251777"
+      "version": "1.1",
+      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/hologram.zip?v=1771134998399"
     }
   ]
 }
