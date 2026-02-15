@@ -1,12 +1,4 @@
 {
   "latest_app_version": "2.0",
-  "mod_files": [
-    {
-      "name": "Test",
-      "id": "Magic bullet",
-      "filename": "magicbullet.zip",
-      "version": "100",
-      "url": "https://raw.githubusercontent.com/sumanworkspace-crypto/NexasFiles/main/magicbullet.zip?v=1771038007575"
-    }
-  ]
+  "mod_files": []
 }
